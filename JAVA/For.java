@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class For{
+Public class For{
 	public static void main(String[] arg){
 		Scanner taa=new Scanner(System.in);
 		System.out.printf("Enter the limit:");
