@@ -38,7 +38,7 @@ public class SymmetricMetrix{
 	}
 	
 	public static void main(String[] args) {
-	        Matrix matrix = new Matrix();
+	        SymmetricMetrix matrix = new SymmetricMetrix();
 	        matrix.getMatrix();
 	        matrix.isSymmetric();
 	        System.out.println("......END.......");
